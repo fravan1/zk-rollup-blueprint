@@ -1,0 +1,29 @@
+# zk-Rollup Blueprint
+
+zk-Rollups are one of the most important breakthroughs in blockchain scalability.  
+They combine off-chain computation with on-chain verification using zero-knowledge proofs — allowing thousands of transactions to be processed securely and privately.
+
+This repository aims to be a clear and concise blueprint to understand:
+- The technology behind zk-Rollups  
+- The main Layer 2 ecosystems using zk proofs  
+- The trade-offs between scalability, security, and decentralization  
+- The social and philosophical implications of a world where “proof replaces trust”  
+
+---
+
+## 📚 Structure
+
+- **/technology** → Foundations of zero-knowledge and rollup architecture  
+- **/ecosystem** → Overviews of key zk projects (zkSync, Starknet, Polygon zkEVM, Scroll)  
+- **/discussions** → Essays on trust, decentralization, and ethics of privacy  
+- **/reflections** → Personal notes on the cultural meaning of zk systems  
+
+---
+
+## 🤝 Contribution
+
+This repo is open to researchers, developers, and curious minds.  
+You can open issues, propose edits, or submit reflections.  
+The goal is not just to document zk-Rollups — it’s to think about what they *mean*.
+
+---
